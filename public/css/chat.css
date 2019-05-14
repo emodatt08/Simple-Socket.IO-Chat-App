@@ -1,0 +1,22 @@
+body{
+   color: #00ab6b;
+}
+ .send-button{
+    width:170px;
+    margin-left:-15px;
+    background:  #00ab6b;
+ }
+
+ .name-brand{
+    color: #00ab6b;
+ }
+ ul{
+     margin:0;
+     padding:0;
+     list-style-type: none;
+ }
+
+ .ul li{
+    margin: 10px;
+    margin-bottom: 20px;
+}
